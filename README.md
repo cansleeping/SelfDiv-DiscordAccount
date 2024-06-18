@@ -20,5 +20,10 @@ start.bat
 
 1. Selecione `1` no cmd ( prompt de comando ).
 2. Envie o id do servidor onde irar divulgar.
+3. 
+<video width="640" height="360" >
+    <source src="https://github.com/cansleeping/SelfDiv-DiscordAccount/blob/main/young-stars.mp4" type="video/mp4">
+    Seu navegador não suporta vídeos HTML5.
+</video>
 
 Pronto! Seu selfbot de divulgação já está funcionando.
