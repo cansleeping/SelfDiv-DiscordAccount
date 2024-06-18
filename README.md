@@ -7,6 +7,7 @@ Este selfbot foi desenvolvido para facilitar a divulgação de servidores no Dis
 
 1. Abra o arquivo `settings/mensagem.txt` e configure a mensagem de divulgação que o bot irá enviar.
 2. Abra o arquivo `settings/token.txt` e insira o token do seu bot.
+3. Abra o arquivo `settings/blacklist.txt` e insira o id das pessoas que não iram recerber a mensagem.
 
 ## Execução
 
